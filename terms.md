@@ -29,6 +29,28 @@
 
 ---
 
+### Array
+**Origin**: From Old French "arayer" meaning "to arrange in order"
+
+**Meaning**: A collection of elements stored in contiguous memory locations
+
+**Why this makes sense**: Arrays literally "arrange" data elements in a specific order, just like arranging objects in a row.
+
+**Example**: An array of student names: ["Alice", "Bob", "Charlie"] stores names in order.
+
+---
+
+### Backup
+**Origin**: From the idea of having something "back you up" - support or assistance
+
+**Meaning**: A copy of data stored separately to prevent loss
+
+**Why this makes sense**: A backup literally "backs you up" by providing support when your original data is lost.
+
+**Example**: Backing up your photos to the cloud creates a safety copy in case your phone breaks.
+
+---
+
 ## B
 
 ### Bug
@@ -50,6 +72,28 @@
 **Why this makes sense**: Just like a physical buffer absorbs shock, a data buffer absorbs the "shock" of different data processing speeds.
 
 **Example**: When watching a video online, buffering means storing some video data ahead of time so playback doesn't stop.
+
+---
+
+### Class
+**Origin**: From Latin "classis" meaning "a group/category of similar things"
+
+**Meaning**: A template or blueprint for creating objects in programming
+
+**Why this makes sense**: Classes group similar objects together, just like students in a school class or ships in a naval class.
+
+**Example**: A "Car" class defines what all cars have (wheels, engine) - then you create specific car objects from this template.
+
+---
+
+### Client
+**Origin**: From Latin "cliens" meaning "follower/dependent"
+
+**Meaning**: A computer or program that requests services from a server
+
+**Why this makes sense**: A client "depends on" and "follows" requests to a server, like a customer depends on a business.
+
+**Example**: Your web browser is a client that requests web pages from server computers.
 
 ---
 
@@ -157,6 +201,17 @@
 **Why this makes sense**: Hashing "chops up" your input data and "mixes" it to create a unique fingerprint.
 
 **Example**: Password hashing "chops up" your password into an unrecognizable string for security.
+
+---
+
+### Hardware
+**Origin**: "Hard" (solid/physical) + "ware" (goods/products)
+
+**Meaning**: The physical components of a computer system
+
+**Why this makes sense**: Hardware is literally the "hard" (solid, physical) goods that make up a computer, as opposed to "soft" (intangible) software.
+
+**Example**: Your computer's processor, memory chips, and keyboard are all hardware.
 
 ---
 
@@ -294,6 +349,17 @@
 **Why this makes sense**: Just like threads are woven together to create fabric, program threads work together to create the complete application.
 
 **Example**: A music app might use one thread for playing music and another thread for updating the display.
+
+---
+
+### Timeout
+**Origin**: "Time" + "out" - literally running out of time
+
+**Meaning**: When a system stops waiting for a response after a predetermined time limit
+
+**Why this makes sense**: Just like a timeout in sports when play stops, a computer timeout stops waiting when time runs out.
+
+**Example**: If a website takes too long to load, your browser might show a "timeout error."
 
 ---
 

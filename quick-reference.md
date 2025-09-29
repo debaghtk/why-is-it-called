@@ -8,9 +8,13 @@ A condensed summary of common software engineering terms with their origins and 
 |------|--------|----------------|------------|
 | **Algorithm** | Al-Khwarizmi (mathematician) | Step-by-step problem solving | Like a math formula |
 | **API** | Latin "interface" (between faces) | How programs communicate | Menu between you and kitchen |
+| **Array** | French "arrange in order" | Ordered collection of data | Items lined up in a row |
+| **Backup** | "Back you up" (support) | Safety copy of data | Supporting friend |
 | **Bug** | Grace Hopper's moth (1947) | Error in code | Insect in machine |
 | **Buffer** | French "cushion/absorb" | Temporary storage | Shock absorber |
 | **Cache** | French "to hide" | Fast hidden storage | Secret stash |
+| **Class** | Latin "group/category" | Object template | School class of students |
+| **Client** | Latin "follower/dependent" | Requests services | Customer |
 | **Compile** | Latin "gather together" | Transform code to run | Collecting ingredients |
 | **Cookie** | Fortune cookies | Small data packets | Hidden message |
 | **Daemon** | Maxwell's demon | Background helper | Invisible assistant |
@@ -18,6 +22,7 @@ A condensed summary of common software engineering terms with their origins and 
 | **Debug** | Remove bugs | Fix errors | Pest control |
 | **Firewall** | Building fire barriers | Network security | Digital barrier |
 | **Function** | Latin "perform task" | Reusable code block | Tool in toolbox |
+| **Hardware** | Hard (solid) + ware (goods) | Physical computer parts | Solid components |
 | **Hash** | Cooking "chop and mix" | Data fingerprint | Scrambled identifier |
 | **Heap** | Pile of things | Memory storage area | Random pile |
 | **Interface** | Between faces/surfaces | Connection point | Bridge between systems |
@@ -30,6 +35,7 @@ A condensed summary of common software engineering terms with their origins and 
 | **Server** | To serve others | Computer that provides services | Digital waiter |
 | **Stack** | Pile on top | Last-in-first-out | Stack of plates |
 | **Thread** | Weaving strand | Concurrent execution | Fabric threads |
+| **Timeout** | Time + out (ran out) | Stop waiting after time limit | Sports timeout |
 | **Token** | Sign/symbol | Access credential | Arcade token |
 | **Variable** | Changeable | Storage that can change | Changeable container |
 | **Virus** | Biological virus | Self-replicating malware | Digital infection |

@@ -5,6 +5,7 @@ This page organizes software engineering terms by their domain or area of use, m
 ## 🔧 Programming Fundamentals
 
 ### Data Structures
+- **[Array](terms.md#array)** - Arranged in order like lined-up items
 - **[Stack](terms.md#stack)** - Like stacking plates (last-in, first-out)
 - **[Queue](terms.md#queue)** - Like waiting in line (first-in, first-out) 
 - **[Heap](terms.md#heap)** - Like a pile of things in memory
@@ -12,6 +13,7 @@ This page organizes software engineering terms by their domain or area of use, m
 
 ### Programming Concepts
 - **[Algorithm](terms.md#algorithm)** - Named after mathematician Al-Khwarizmi
+- **[Class](terms.md#class)** - Template for creating similar objects
 - **[Function](terms.md#function)** - Performs a specific task
 - **[Variable](terms.md#variable)** - Changeable storage location
 - **[Loop](terms.md#loop)** - Code that bends back on itself
@@ -25,6 +27,7 @@ This page organizes software engineering terms by their domain or area of use, m
 - **[Cookie](terms.md#cookie)** - Contains hidden information like fortune cookies
 - **[Cache](terms.md#cache)** - Hidden storage for quick access
 - **[API](terms.md#api)** - Interface between applications
+- **[Client](terms.md#client)** - Requests services from servers
 
 ### Network Security
 - **[Firewall](terms.md#firewall)** - Prevents spread like building fire walls
@@ -35,9 +38,12 @@ This page organizes software engineering terms by their domain or area of use, m
 
 ### System Operations
 - **[Memory](terms.md#memory)** - Computer's ability to remember
+- **[Hardware](terms.md#hardware)** - Physical computer components
+- **[Backup](terms.md#backup)** - Safety copy of data
 - **[Buffer](terms.md#buffer)** - Absorbs processing speed differences
 - **[Daemon](terms.md#daemon)** - Helpful background entity
 - **[Thread](terms.md#thread)** - Lightweight processes woven together
+- **[Timeout](terms.md#timeout)** - Stop waiting after time limit
 
 ### Development Tools
 - **[Compile](terms.md#compile)** - Gathering code together for execution
