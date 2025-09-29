@@ -423,3 +423,5 @@
 ---
 
 *Want to contribute a term? See our [Contributing Guidelines](CONTRIBUTING.md)*
+
+*Want to contribute a term? See our [Contributing Guidelines](CONTRIBUTING.md)*
